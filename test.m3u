@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
+#EXTINF:-1 tvg-name="Bang Bang" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Digitalb" ,Bang Bang
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/34.ts
+#EXTINF:-1 tvg-name="CufoTV" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png" group-title="Digitalb" ,Cufo TV
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/35.ts
+#EXTINF:-1 tvg-name="JuniorTV" tvg-logo="http://www.albepg.com/tvlogi/Junior%20TV.png" group-title="Digitalb" ,Junior TV
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/41.ts
+#EXTINF:-1 tvg-name="FilmDrame" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png" group-title="Digitalb" ,Film Drame
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/78.ts
+#EXTINF:-1 tvg-name="FilmAksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Digitalb" ,Film Aksion
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/84.ts
+#EXTINF:-1 tvg-name="FilmHits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" group-title="Digitalb" ,Film Hits
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/79.ts
+#EXTINF:-1 tvg-name="FilmKomedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png" group-title="Digitalb" ,Film Komedi
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/83.ts
+#EXTINF:-1 tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png" group-title="Digitalb" ,Film Autor
+http://51.15.12.65:8000/live/waBkMRCPjd/XXL2015.Mos.U.Mundo.Se.Pw.Ndryshohet/77.ts
